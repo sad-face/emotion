@@ -1,0 +1,1339 @@
+    Hey
+
+    So I wanted to talk to you
+
+    Most of the backend is finished, I would need you to add some additonal features
+
+    Some are complicated, some aren't
+
+    but the main thing that I need is to convert the current layout of
+    Arthur Underwood
+    7/14, 2:16pm
+    Arthur Underwood
+    Arthur Underwood
+    7/14, 2:16pm
+    Arthur Underwood
+
+    into
+    Arthur Underwood
+    7/14, 2:16pm
+    Arthur Underwood
+    Arthur Underwood
+    7/14, 2:16pm
+    Arthur Underwood
+
+    Would you be able to do that?
+
+    I don't think it matters but I just wanted to add that I am also russian/jewish like you!
+    Joseph Kantorovich
+    7/14, 2:21pm
+    Joseph Kantorovich
+
+    Oh haha that's awesome
+
+    And yeah I think that looks doable
+
+    So what backend framework are you using?
+
+    And is the front end just pure JavaScript/Jquery/html/Css?
+
+    Also so you want a scrolling sidebar with categories
+
+    And then a pandora replica main page?
+
+    Do you still want videos to be embedded?
+    Arthur Underwood
+    7/14, 2:26pm
+    Arthur Underwood
+
+    Give me a couple of minutes
+    Joseph Kantorovich
+    7/14, 2:26pm
+    Joseph Kantorovich
+
+    Sure
+    Arthur Underwood
+    7/14, 2:27pm
+    Arthur Underwood
+
+    php, javascript/ jquery, ajax, html
+
+    it was mostly written in that
+    Joseph Kantorovich
+    7/14, 2:27pm
+    Joseph Kantorovich
+
+    What about the back end?
+    Arthur Underwood
+    7/14, 2:27pm
+    Arthur Underwood
+
+    "Also so you want a scrolling sidebar with categories"
+
+    tell me what you mean by this end
+
+    *tell me what you mean by scrolling side bar with categories
+
+    the left side bar isn't a categories side bar
+
+    it's a previous searches done by the user side bar
+    Joseph Kantorovich
+    7/14, 2:28pm
+    Joseph Kantorovich
+
+    It seems like there's a scrolling thing there
+    Arthur Underwood
+    7/14, 2:28pm
+    Arthur Underwood
+
+    similar to how pandora has it
+    Joseph Kantorovich
+    7/14, 2:28pm
+    Joseph Kantorovich
+
+    Oh
+    Arthur Underwood
+    7/14, 2:28pm
+    Arthur Underwood
+
+    Yeah
+
+    go to my site now the main link is blocked
+
+    but go through this link
+
+    http://www.porndora.sexy/videos
+
+    do searches, it'll appear on the left side eventually you'll get a scroll bar
+    Joseph Kantorovich
+    7/14, 2:29pm
+    Joseph Kantorovich
+
+    Oh ok
+    Arthur Underwood
+    7/14, 2:30pm
+    Arthur Underwood
+
+    I'll just give you access to the backend but I would need you to sign an NDA, Nathan said you wouldn't have an issue with that?
+    Joseph Kantorovich
+    7/14, 2:31pm
+    Joseph Kantorovich
+
+    Yeah
+    Arthur Underwood
+    7/14, 2:31pm
+    Arthur Underwood
+
+    We have someone in charge of the algorithm that is a math phD from NYU/Carnegie melon. We have someone that raised 1.5 million dollars for his own startup and runs his own company and is willing to do marketting for us as well as another person that has marketting experience.
+
+    So it's more than just me and Nathan
+
+    As long as the programming aspect of it works out, the site should go viral relatively quickly
+
+    That's why we want to bring you on board
+
+    I'll have an NDA to your email by tonight.
+    Joseph Kantorovich
+    7/14, 2:33pm
+    Joseph Kantorovich
+
+    That's great^
+
+    I'm excited
+
+    How fast do you think I can finish what you want me to do?
+    Arthur Underwood
+    7/14, 2:35pm
+    Arthur Underwood
+
+    That depends on you, I don't know your skill level
+
+    As I said most of the site's back end is done
+
+    I would need you to add a couple of things that are complicated
+
+    One of them is finding a spell check script that can be installed on the site
+
+    if it costs money, I'll buy it from whoever is selling it
+
+    often times you have people coming onto the site
+    Joseph Kantorovich
+    7/14, 2:36pm
+    Joseph Kantorovich
+
+    Spell checking for search?
+    Arthur Underwood
+    7/14, 2:36pm
+    Arthur Underwood
+
+    and they mispell shit
+
+    and then get significantly less results
+
+    because of it
+
+    yup
+
+    and that makes them think the site doesn't have videos
+
+    the second thing is you saw the search side bar on the left?
+
+    A search on most sites is essentially keywords that you typed in and if a video has tags that match it then it is shown in your search
+
+    What we didn't add yet but need added is for a feature where if a user searches
+
+    Asian, Busty and then milf
+
+    It'll check his previous search and combine it
+
+    so for that example, it'll show the videos that contain both "busty" and "milf"
+
+    even though the user only searched "milf"
+
+    those are the most complicated things that I need added on
+    Joseph Kantorovich
+    7/14, 2:38pm
+    Joseph Kantorovich
+
+    Oh ok
+    Arthur Underwood
+    7/14, 2:39pm
+    Arthur Underwood
+
+    Is that within your skill level?
+    Joseph Kantorovich
+    7/14, 2:39pm
+    Joseph Kantorovich
+
+    An algorithm that shows first the links with the most tags that the user has searched for
+    Arthur Underwood
+    7/14, 2:39pm
+    Arthur Underwood
+
+    *the videos with the most tags that user has previously searched for
+
+    I'm thinking that it can't be the most tags
+
+    A user that comes on the site for a year
+
+    may have 50 searches
+
+    if the site is pulling up 50 searches and combining them each them he does a new search
+
+    it'll be too much strain on the server
+
+    so it might be better just to combine the most recent searches
+
+    so as I said
+
+    he searches Asian then busty then milf
+
+    it'll just combine milf+ busty
+    Joseph Kantorovich
+    7/14, 2:40pm
+    Joseph Kantorovich
+
+    I mean algorithmically yes, but it depends on the language the backend is in
+    Arthur Underwood
+    7/14, 2:40pm
+    Arthur Underwood
+
+    not sian
+
+    I had a freelancer in California do most of the backend and it works flawlessly, I've tested it countless times for bugs
+
+    but I can't concisely say all the languages he used
+
+    Worst case you can reprogram something that isn't to your standards
+    Joseph Kantorovich
+    7/14, 2:41pm
+    Joseph Kantorovich
+
+    I know JavaScript, Java, Ruby, matlab, Ruby on rails
+
+    Oh ok
+    Arthur Underwood
+    7/14, 2:42pm
+    Arthur Underwood
+
+    and the Math phD can also program a back end
+    Joseph Kantorovich
+    7/14, 2:42pm
+    Joseph Kantorovich
+
+    So basically add those two features to the back end
+    Arthur Underwood
+    7/14, 2:42pm
+    Arthur Underwood
+
+    the main thing that we don't have is someone for the front end
+
+    and those features
+    Joseph Kantorovich
+    7/14, 2:42pm
+    Joseph Kantorovich
+
+    And other than that redesign the front end
+    Arthur Underwood
+    7/14, 2:42pm
+    Arthur Underwood
+
+    yeah
+
+    I'll send you an NDA tonight and I'll send you the remaining details shortly after with the login to cpanel
+    Joseph Kantorovich
+    7/14, 2:43pm
+    Joseph Kantorovich
+
+    Ok great. Sounds good
+    Arthur Underwood
+    7/14, 2:43pm
+    Arthur Underwood
+
+    You can take a few days or however long you need to get accustomed with the site's programming before starting
+
+    Glad to have you on board
+    Joseph Kantorovich
+    7/14, 2:44pm
+    Joseph Kantorovich
+
+    Yeah I'll try to get to work on it asap
+    Today
+    Arthur Underwood
+    12:56am
+    Arthur Underwood
+
+    SEnt
+
+    *Sent
+    Joseph Kantorovich
+    12:59am
+    Joseph Kantorovich
+
+    Awesome
+    Joseph Kantorovich
+    1:42am
+    Joseph Kantorovich
+
+    I'll read it and sign it tomorrow
+
+    when I wake up
+    Today
+    Arthur Underwood
+    9:02am
+    Arthur Underwood
+
+    no problem
+    Arthur Underwood
+    10:41am
+    Arthur Underwood
+
+    Everything alright?
+    Joseph Kantorovich
+    11:12am
+    Joseph Kantorovich
+
+    oh yeah I looked it over, it looks good
+
+    so
+
+    Recipient of Confidential Information:
+    Name (Print or Type):Yoseph Kantorovich
+    Company:N/A
+    Title:
+    Address:81 Half Crown Cricle	
+    City, State & Zip: Ashland, MA, 01721
+
+    Is that good?
+
+    I don't know what the title is
+
+    or do you need it faxed?
+
+    or what's the deal
+    Arthur Underwood
+    11:22am
+    Arthur Underwood
+
+    Scan it or even a picture would be fine
+    Joseph Kantorovich
+    11:22am
+    Joseph Kantorovich
+
+    Oh ok
+
+    and what is the title?
+    Arthur Underwood
+    11:22am
+    Arthur Underwood
+
+    Just write programmer
+
+    Nathan, wanted me to talk to you about your compensation
+
+    How much equity percentage are you looking for?
+    Joseph Kantorovich
+    11:24am
+    Joseph Kantorovich
+
+    Oh, I forgot to finish talking to Nathan about that, we were in the process of figuring it out
+
+    how much were you ballparking?
+    Arthur Underwood
+    11:25am
+    Arthur Underwood
+
+    You can just talk to me about it and i'll forward it to him, we were discussing it last night
+
+    One hundred percent!
+
+    No but really, Joseph I just want you to be happy and motivated
+
+    What number would do that for you
+    Joseph Kantorovich
+    11:26am
+    Joseph Kantorovich
+
+    I would be fine with 15%, is that too much?
+    Arthur Underwood
+    11:27am
+    Arthur Underwood
+
+    I can do 15% if you're able to do everything that I need
+
+    meaning backend, front end etc.
+
+    We'll keep at 10 for now if you're able to do everything without me needing to bring in another programmer
+
+    I'll be fine with moving it to 15
+
+    is that alright with you?
+    Joseph Kantorovich
+    11:28am
+    Joseph Kantorovich
+
+    Ok that sounds perfect
+    Arthur Underwood
+    11:29am
+    Arthur Underwood
+
+    Alright don't share the login with anyone obviously
+
+    https://porndor.arvixevps.com:2083/cpsess5926894455/awstats.pl?config=porndora.sexy&ssl=&lang=en
+
+    porndora
+
+    Pavel727
+
+    Sorry
+
+    the link is
+
+    https://porndor.arvixevps.com:2083
+
+    The link i sent you was to an uninstalled app on cpanel, login in through https://porndor.arvixevps.com:2083
+
+    The front end is located at public_html/templates/frontend/blue
+
+    Send the NDA!
+
+    Joseph?
+    Joseph Kantorovich
+    11:36am
+    Joseph Kantorovich
+
+    Sorry a little busy atm
+
+    Thanks
+    Arthur Underwood
+    11:36am
+    Arthur Underwood
+
+    No problem
+    Joseph Kantorovich
+    11:37am
+    Joseph Kantorovich
+
+    will do it really soon
+    Arthur Underwood
+    11:37am
+    Arthur Underwood
+
+    I can't change the password to Pavel727 until you send it
+    Joseph Kantorovich
+    11:40am
+    Joseph Kantorovich
+
+    sure, give me half an hour
+    Joseph Kantorovich
+    11:58am
+    Joseph Kantorovich
+    Joseph Kantorovich
+    11:58am
+    Joseph Kantorovich
+    Joseph Kantorovich
+    11:58am
+    Joseph Kantorovich
+
+    That good?
+
+    Sorry about that. My mom was yelling at me for something stupid. You know how russian moms are..
+
+    The moment you get back from college their all over your ass
+    Arthur Underwood
+    12:04pm
+    Arthur Underwood
+
+    lol i know
+
+    yeah it's fine
+
+    changed the password to Pavel727
+
+    Here is what is currently on the backend
+
+    If you like a video you're put into a category of other people that liked that same video
+
+    and the top two most commonly liked videos amongst that group, are recommended to everyone in that group
+
+    for example you like Video A
+
+    the server puts you into a category of other people that liked video A
+
+    and it's determined that the most commonly liked video is Video B and C, Video B and C will be recommended to everyone in that group
+
+    by recommended I mean those two videos will be shown next to Video A
+
+    Same thing for dislike
+
+    you're put into a category of toher people
+
+    but instead if you dislike a video
+
+    those videos are never shwon toy ou again
+
+    there is a rating system already in place
+
+    You don't even need to hit the like button in order to like the video
+
+    as long as you stayed on the video page for longer than 30 second, you're deemed to have liked the video
+
+    that way users don't have to consistently click the like button, most people don't bother
+    Joseph Kantorovich
+    12:13pm
+    Joseph Kantorovich
+
+    Oh that's pretty cool
+
+    so I'm guessing the top 2 most liked videos gets determined
+
+    by whats the most common liked videos among your group?
+    Arthur Underwood
+    12:14pm
+    Arthur Underwood
+
+    yeah let's say
+
+    10 people like video A
+    Joseph Kantorovich
+    12:14pm
+    Joseph Kantorovich
+
+    Haha I did an exercise really similar to this in my software engineering classes
+    Arthur Underwood
+    12:14pm
+    Arthur Underwood
+
+    and out of those 10, 8 like Video B and 7 like Video C
+    Joseph Kantorovich
+    12:14pm
+    Joseph Kantorovich
+
+    we had to predict what rating a user would give to a movie based on data of 100,000 users and their ratings on different movies
+    Arthur Underwood
+    12:15pm
+    Arthur Underwood
+
+    i was literally studying that before i started the site
+
+    netflix ran a contest similar to that
+
+    they would give half of a data set
+    Joseph Kantorovich
+    12:15pm
+    Joseph Kantorovich
+
+    Oh I guess it's a popular exercise
+    Arthur Underwood
+    12:15pm
+    Arthur Underwood
+
+    and whoever is able to predict the other half with an aglorithm wins 1 milli or 100k i forgot the exact number
+
+    maybe your professor was just trying to get the prize
+    Joseph Kantorovich
+    12:16pm
+    Joseph Kantorovich
+
+    yeah statistical machine learning
+
+    cool stuff
+
+    haha
+
+    anyways let me login
+    Arthur Underwood
+    12:16pm
+    Arthur Underwood
+
+    kk
+
+    let me know when you get accustomed to it and can start
+
+    you can take a few days or more if you need it
+    Joseph Kantorovich
+    12:18pm
+    Joseph Kantorovich
+
+    huh not working
+
+    porndora
+
+    Pavel727?
+
+    did you change the password yet?
+    Arthur Underwood
+    12:20pm
+    Arthur Underwood
+
+    porndor
+
+    not porndora
+
+    The site is called Porndora
+
+    but the login is without an 'a'
+
+    just porndor
+
+    Pavel727
+    Joseph Kantorovich
+    12:21pm
+    Joseph Kantorovich
+
+    oh got it
+    Arthur Underwood
+    12:23pm
+    Arthur Underwood
+
+    The front end is located at public_html/templates/frontend/blue
+    Joseph Kantorovich
+    12:24pm
+    Joseph Kantorovich
+
+    Ok I got there
+
+    but I'm a little confused as to how to see the code
+
+    because it keeps saying restricted access
+
+    I'll try to watch tutorials on how to use this site
+    Arthur Underwood
+    12:26pm
+    Arthur Underwood
+
+    where are you right now
+
+    <html>
+    <body bgcolor="#FFFFFF">
+    Restricted Access!
+    </body>
+    </html>
+
+    This?
+
+    If you reach pages such as those they have no code on them
+
+    I'm not exactly sure why they were put in but I assume it's to prevent people from accessing commonly used directories/pages
+
+    there  is code in footer
+
+    header
+
+    splash
+
+    and others if you run into <html>
+    <body bgcolor="#FFFFFF">
+    Restricted Access!
+    </body>
+    </html>
+
+    just ignore it
+    Joseph Kantorovich
+    12:28pm
+    Joseph Kantorovich
+
+    oh ok
+
+    so where exactly is the html for the front end
+
+    I am in the blue subdirectory
+    Arthur Underwood
+    12:29pm
+    Arthur Underwood
+
+    the front end isn't located on one page
+    Joseph Kantorovich
+    12:30pm
+    Joseph Kantorovich
+
+    yeah I understand
+    Arthur Underwood
+    12:30pm
+    Arthur Underwood
+
+    Splash contains the overlay page so for example  when you come into the site you see the under construction?
+
+    That's covering the front end
+
+    there is footer for the bottom of the page
+
+    header for the top
+
+    and index.tpl for the rest
+
+    there might be a couple more pages linked to the front end
+    Joseph Kantorovich
+    12:32pm
+    Joseph Kantorovich
+
+    Ok I see it
+
+    so I'm not familiar with the .tp format
+
+    I'm guessing that is embedded php
+
+    so I guess I will have to read up on that
+    Arthur Underwood
+    12:33pm
+    Arthur Underwood
+
+    would you be able to  recode it into a language you're more comfortable with?
+    Joseph Kantorovich
+    12:33pm
+    Joseph Kantorovich
+
+    all the front end I've done so far has been strictly html/js or html and ruby
+    Arthur Underwood
+    12:33pm
+    Arthur Underwood
+
+    Or you need to keep it with embedded php?
+    Joseph Kantorovich
+    12:34pm
+    Joseph Kantorovich
+
+    Hmm, that's a good question
+    Arthur Underwood
+    12:34pm
+    Arthur Underwood
+
+    I mean hypothetically you're redoing the entire layout
+
+    the only thing you really need to keep
+
+    is the backend
+    Joseph Kantorovich
+    12:34pm
+    Joseph Kantorovich
+
+    Let me see if I can figure out the .tpl thing
+
+    Yeah that
+
+    's true
+
+    but the front end is connected to the back end
+
+    so I can't really start from scratch
+    Arthur Underwood
+    12:35pm
+    Arthur Underwood
+
+    yeah you're right
+
+    look into it let me know if you have any questions or run into problems
+    Joseph Kantorovich
+    12:35pm
+    Joseph Kantorovich
+
+    Yeah I'll be getting familiar with it and updating you with what's going on
+
+    Also, do you have any idea of how to see what the actual page looks like
+
+    after I edit the html
+
+    and also where is the backend located?
+    Arthur Underwood
+    12:37pm
+    Arthur Underwood
+
+    you can remove splash
+
+    actually
+
+    let me just revert splash
+
+    so thaty ou can view it
+    Joseph Kantorovich
+    12:38pm
+    Joseph Kantorovich
+
+    ohh you put that on
+
+    ok
+
+    So whenever I make a change to the website I will be able to see it live
+    Arthur Underwood
+    12:38pm
+    Arthur Underwood
+
+    k
+
+    try now
+    Joseph Kantorovich
+    12:38pm
+    Joseph Kantorovich
+
+    is that how it works?
+    Arthur Underwood
+    12:38pm
+    Arthur Underwood
+
+    no splash was original the enter page
+
+    i modified it so that it blocks people from viewing it
+
+    but i reverted it
+
+    as long as you do a search on the enter page
+
+    it'll disappear and you'll be able to view all the pages
+    Joseph Kantorovich
+    12:39pm
+    Joseph Kantorovich
+
+    right
+    Arthur Underwood
+    12:39pm
+    Arthur Underwood
+
+    the back end I assume is templates/backend
+
+    but i'm not sure how much of it is in that folder
+    Joseph Kantorovich
+    12:39pm
+    Joseph Kantorovich
+
+    So hold on, and changed I make in these files are immeditely changed on the live website?
+    Arthur Underwood
+    12:40pm
+    Arthur Underwood
+
+    ya
+    Joseph Kantorovich
+    12:40pm
+    Joseph Kantorovich
+
+    there is no localhost server that I can see the website on?
+    Arthur Underwood
+    12:40pm
+    Arthur Underwood
+
+    The programmer that I was using before ran it on his own local host before implemented it into the site
+    Joseph Kantorovich
+    12:40pm
+    Joseph Kantorovich
+
+    Because usually I've done work locally before uploading it to the server
+    Arthur Underwood
+    12:40pm
+    Arthur Underwood
+
+    you can use the live version though
+
+    the traffic that is coming in is mainly from google right now
+
+    once you're done i have marketting plans to make it go viral
+    Joseph Kantorovich
+    12:41pm
+    Joseph Kantorovich
+
+    so you don't care if I piss of people who are viewing it?
+    Arthur Underwood
+    12:41pm
+    Arthur Underwood
+
+    yeah
+    Joseph Kantorovich
+    12:41pm
+    Joseph Kantorovich
+
+    are you currently making money of it?
+    Arthur Underwood
+    12:41pm
+    Arthur Underwood
+
+    there is no ads and it's not finished
+
+    no
+    Joseph Kantorovich
+    12:41pm
+    Joseph Kantorovich
+
+    oh, you don't have ads?
+
+    And pornhub doesn't pay for linking to their page?
+    Arthur Underwood
+    12:42pm
+    Arthur Underwood
+
+    The first thing I need to do
+
+    is worry about building traffic
+
+    if there is no traffic ads are pointless and ads limit the amount of returning traffic
+    Joseph Kantorovich
+    12:42pm
+    Joseph Kantorovich
+
+    ok I see
+    Arthur Underwood
+    12:42pm
+    Arthur Underwood
+
+    I've gotten 5,000 users a day before from very minimal marketting but it went down and flat lined at 1,000
+
+    i have a full plan on how to make it go to 50,000-100,000 a day within a couple of days i just need the site to be finished
+
+    and no the videos we get are from pornhub, xvideos, youporn and xhamster
+
+    can you make another back up for yourself of the server
+
+    just in case you modify something that you shouldn't have?
+    Joseph Kantorovich
+    12:44pm
+    Joseph Kantorovich
+
+    wait is the splash page not happening at all right now?
+    Arthur Underwood
+    12:44pm
+    Arthur Underwood
+
+    Okay the splash page only appears
+
+    if you're a user that has no searches
+
+    meaning a new user
+
+    if you've done a search the splash page does not appear and it shows the entire website
+    Joseph Kantorovich
+    12:45pm
+    Joseph Kantorovich
+
+    ok so gonna go to incognito mode
+    Arthur Underwood
+    12:45pm
+    Arthur Underwood
+
+    i currently renabled the splash page so as long as you run a search you're able to get past it
+    Joseph Kantorovich
+    12:45pm
+    Joseph Kantorovich
+
+    oh shit it works in incognito too
+
+    ok so I guess I can't see the splash page since I already made searches
+    Arthur Underwood
+    12:46pm
+    Arthur Underwood
+
+    you can run it in tor
+
+    or you can just hit x
+
+    on your searches
+
+    on the left side bar if you put your mouse over the search
+
+    an x appears
+
+    hit the x for all your searches
+
+    until they're all gone
+    Joseph Kantorovich
+    12:46pm
+    Joseph Kantorovich
+
+    Ah there we go
+    Arthur Underwood
+    12:46pm
+    Arthur Underwood
+
+    and refresh the page the splash page will reappear
+    Joseph Kantorovich
+    12:46pm
+    Joseph Kantorovich
+
+    My first mark on the website
+
+    Yee I'm excited
+
+    За работу
+    Arthur Underwood
+    12:48pm
+    Arthur Underwood
+
+    smile emoticon
+
+    Oh here's what else i wanted to tell you
+
+    this is what will make the coding of the site
+
+    irritating as fuck
+    Joseph Kantorovich
+    12:48pm
+    Joseph Kantorovich
+
+    yeah
+
+    ?
+    Arthur Underwood
+    12:48pm
+    Arthur Underwood
+
+    Originally I brought a porn script from adultvideoscript..com
+
+    there was a bunch of coding in there
+
+    for example there was a picture search page,, profiles, community pages to search other users
+
+    i had all that shit disabled
+
+    but it's still in the files
+
+    so you'll come across those
+    Joseph Kantorovich
+    12:49pm
+    Joseph Kantorovich
+
+    oh that's annoying
+    Arthur Underwood
+    12:49pm
+    Arthur Underwood
+
+    same reason why there is a front end Green etc.
+
+    but has nothing to do with the front end
+    Joseph Kantorovich
+    12:50pm
+    Joseph Kantorovich
+
+    So is all the stuff in blue
+
+    applicable?
+    Arthur Underwood
+    12:50pm
+    Arthur Underwood
+
+    yes the front end is all in blue
+
+    no
+
+    you saw the index.html?
+    Joseph Kantorovich
+    12:50pm
+    Joseph Kantorovich
+
+    Oh shit
+
+    yeah
+    Arthur Underwood
+    12:50pm
+    Arthur Underwood
+
+    that was part of the old script
+    Joseph Kantorovich
+    12:50pm
+    Joseph Kantorovich
+
+    everything that's restricted isnt
+
+    got it
+
+    That doesn't seem too bad
+    Arthur Underwood
+    12:50pm
+    Arthur Underwood
+
+    No some of it isn't restricted
+
+    like go tot he backend filepath i told you
+
+    there is an albums page and a community page
+
+    and probably a photos as well and games
+
+    those pages are just completely useless but are there
+
+    because originally the script i had, had video games, pictures, profiles etc.
+
+    things that i really do not need for porndora
+    Joseph Kantorovich
+    12:51pm
+    Joseph Kantorovich
+
+    Can you delete them
+
+    or change their file names to "file name"_useless
+    Arthur Underwood
+    12:52pm
+    Arthur Underwood
+
+    I wouldn't delete them
+
+    i don't see why you can't modify file names
+
+    just add a "U" in front of the name
+    Joseph Kantorovich
+    12:52pm
+    Joseph Kantorovich
+
+    Ok so I guess I'll just have to figure out what isn't a part of the stuff
+    Arthur Underwood
+    12:53pm
+    Arthur Underwood
+
+    yeah i wish you were in new york
+
+    so we coudl just go through it together
+    Joseph Kantorovich
+    12:53pm
+    Joseph Kantorovich
+
+    public_html/templates/backend/default
+
+    is that the backend address
+
+    Haha I can come up to new york probably
+    Arthur Underwood
+    12:54pm
+    Arthur Underwood
+
+    yeah
+    Joseph Kantorovich
+    12:54pm
+    Joseph Kantorovich
+
+    I used to take a bus every weekend to newyor to take music lessons when I was in high school
+    Arthur Underwood
+    12:55pm
+    Arthur Underwood
+
+    all of the front end, other then what is in blue
+
+    can be ignored
+
+    anything that links to a mobile or iphone template/platform
+
+    can be removed
+
+    there used to be an iphone version of it but it was terrible
+    Joseph Kantorovich
+    12:55pm
+    Joseph Kantorovich
+
+    oh really
+
+    There is a framework called Ionic
+    Arthur Underwood
+    12:56pm
+    Arthur Underwood
+
+    we stopped coding into that template early on like afte the first week
+    Joseph Kantorovich
+    12:56pm
+    Joseph Kantorovich
+
+    that actually instantly makes a version for both Iphone and website
+    Arthur Underwood
+    12:56pm
+    Arthur Underwood
+
+    how long do you think it'll take you to go through it?
+    Joseph Kantorovich
+    12:56pm
+    Joseph Kantorovich
+
+    I'm using it in my other startup
+    Arthur Underwood
+    12:57pm
+    Arthur Underwood
+
+    you don't need to be in a rush
+
+    i just want an estimate if you can provide it
+    Joseph Kantorovich
+    12:58pm
+    Joseph Kantorovich
+
+    Well right now I don't really understand where the backend is
+
+    All I'm seeing in the backend files are .tpl files which are html files
+
+    and besides the back end isn't supposed to be public
+    Arthur Underwood
+    12:59pm
+    Arthur Underwood
+
+    I can get into contact with my old programmer
+
+    but it might take a day for him to respond
+    Joseph Kantorovich
+    12:59pm
+    Joseph Kantorovich
+
+    The front end part I can hopefully figure out (take a few crash courses in php or whatever)
+    Arthur Underwood
+    12:59pm
+    Arthur Underwood
+
+    if you can send me all the questions you have before hand
+
+    it'll be much more convenient if i don't need to pester him several days in a row
+    Joseph Kantorovich
+    1:00pm
+    Joseph Kantorovich
+
+    That's true
+
+    hmm
+
+    Well first off what framework he is using for the backend and I guess where he stored it
+
+    Although maybe I can try searching for it
+
+    before you pester him for it
+    Arthur Underwood
+    1:00pm
+    Arthur Underwood
+
+    kk
+    Joseph Kantorovich
+    1:02pm
+    Joseph Kantorovich
+
+    anyways thanks for your time for helping me figure this out
+
+    I'm not used to cPanel haha
+    Arthur Underwood
+    1:03pm
+    Arthur Underwood
+
+    no problem and thank you for helping out
+    Joseph Kantorovich
+    1:05pm
+    Joseph Kantorovich
+
+    So the design is just that one image that you sent me?
+
+    Or are there several design layours for each page
+    Arthur Underwood
+    1:06pm
+    Arthur Underwood
+
+    so
+
+    you see the current site
+
+    how there is 20 videos per page?
+    Joseph Kantorovich
+    1:06pm
+    Joseph Kantorovich
+
+    yeap
+    Arthur Underwood
+    1:06pm
+    Arthur Underwood
+
+    if you hit the - Show More - on the new layout
+
+    it will redirect to a page that follows the same concept of 20 videos per page
+
+    i'll need a sign up/login page  and static pages for TOS, Copy right etc.
+    Joseph Kantorovich
+    1:07pm
+    Joseph Kantorovich
+
+    I don't see a more option
+
+    oh
+
+    new
+    Arthur Underwood
+    1:07pm
+    Arthur Underwood
+
+    yeah
+
+    those pages that i just mentioned can all be placed where the video i showed you is
+
+    so instead of the video and the like/dislike buttons  it'll have the sign up/login
+
+    or the copyright information
+    Joseph Kantorovich
+    1:08pm
+    Joseph Kantorovich
+
+    Oh also another question, if I know another friend who is also really skilled at front end and possibly knows php could I bring him in to speed up the process and split our shares?
+
+    can you send that image again?
+
+    Also damn it seems like you've thought everything through a lot
+    Arthur Underwood
+    1:10pm
+    Arthur Underwood
+
+    give me a minute
+    Arthur Underwood
+    1:12pm
+    Arthur Underwood
+    Arthur Underwood
+    1:12pm
+    Arthur Underwood
+
+    had a lot of different versions of it had to find the final one
+
+    I have everything planned out already. Before I started working on it, I was planning it for a year and then been working on it for the past few months. I already have a media campaign ready for when it's done
+
+    From an indiegogo campaign (For publicity not for money) to press releases
+
+    media companies won't cover a porn site
+
+    but if you're doing a kickstarter or indiegogo campaign for porndora
+
+    they're going to cover it
+
+    i have plans on how to monetize it outside of just ads
+
+    only thing you need to worry about it sthe progrmaming and that's the thing we need
+
+    What you do with your shares is upto you
+    Joseph Kantorovich
+    1:40pm
+    Joseph Kantorovich
+
+    Wow I'm impressed
+
+    and okay, I'll keep that in mind
+
