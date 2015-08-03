@@ -114,7 +114,8 @@ if ( $video['type'] == 'private' && $uid != $video['UID'] ) {
     }
 }
 
-$vid=$recent_videos[2][0];
+//$vid=$recent_videos[2][0];
+$vid=12742;
 if ( !$vid ) {
     VRedirect::go($config['BASE_URL']. '/error/video_missing');
 }
